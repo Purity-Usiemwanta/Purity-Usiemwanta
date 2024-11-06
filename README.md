@@ -38,6 +38,7 @@ Outside the office, you’ll find me **singing**, experimenting with new **perfu
 * ✉️  You can contact me at [usiemwantapurity@gmail.com](mailto:usiemwantapurity@gmail.com)
 * 🧠  I'm learning React and Project Management
 
+<!--
 ### Skills
 
 <p align="left">
@@ -57,3 +58,4 @@ Outside the office, you’ll find me **singing**, experimenting with new **perfu
 <a href="http://www.github.com/Purity-Usiemwanta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Purity-Usiemwanta&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Purity-Usiemwanta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purity-Usiemwanta&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
