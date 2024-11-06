@@ -20,7 +20,8 @@ Hi 👋 My name is Purity Usiemwanta
 <!-- I'm a Frontend Web Developer
 ---------------------------- -->
 
-I'm a web developer and operations lead from Nigeria, passionate about building intuitive digital products and leading people-centered projects. At Credevnet Technologies, I balance frontend development with operational strategy, while co-founding **Zeqah** lets me support students through programs for growth. Currently, I’m deepening my skills in **React.js** and exploring **Project Management**—and I’m always open to collaborate on meaningful projects! Outside work, you’ll find me singing, blending unique perfumes, or enjoying some good bolé (grilled plantain—trust me, you’ve got to try it! 😉). 
+I'm a web developer and operations lead from Nigeria, passionate about building intuitive digital products and leading people-centered projects. At Credevnet Technologies, I balance frontend development with operational strategy, while co-founding **Zeqah** lets me support students through programs for growth. Currently, I’m deepening my skills in **React.js** and exploring **Project Management**—and I’m always open to collaborate on meaningful projects! If you’re interested in learning React alongside me, feel free to reach out on <a href="https://www.linkedin.com/in/purity-usiemwanta-875a841b7/">LinkedIn</a> or drop me an <a href="mailto:usiemwantapurity@gmail.com![image](https://github.com/user-attachments/assets/e926eec9-bb7a-4999-bb7a-9100aafbb11d)
+"> email</a>. Outside work, you’ll find me singing, blending unique perfumes, or enjoying some good bolé (grilled plantain—trust me, you’ve got to try it! 😉). 
 
 
 ### Skills
